@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = /Users/tagesehandiso/insurance_analytics_storage
